@@ -1,4 +1,5 @@
-// This program converts temp from Degree Fahrenhite to Degree celsius
+// This program converts temp from Degree Celsius to Degree Fahrenhite
+
 
 fn main() {
     let args: Vec<String> = std::env::args().collect();
